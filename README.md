@@ -1,4 +1,4 @@
- Identify-an-application-and-determines-it-s-SDLC-phase-Analyze an existing application and identify test scenarios
+ Identify-an-application-and-determines-it-lts-SDLC-phase-Analyze an existing application and identify test scenarios
 Application name: G-mail 
 Current SDLC phase: Maintenance Phase 
 Observation 
